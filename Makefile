@@ -20,4 +20,4 @@ deploy:
 	gcloud projects list; \
 	echo "---"; \
 	read -p "Which project?: " project; \
-	goapp deploy -application $$project $$module
+	goapp deploy -application $$project modules/$$module
