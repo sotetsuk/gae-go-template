@@ -12,7 +12,7 @@ get:
 
 serve:
 	@read -p "Which module?: " module; \
-	goapp serve $$module
+	goapp serve modules/$$module
 
 deploy:
 	@read -p "Which module?: " module; \
