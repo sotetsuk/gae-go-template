@@ -41,7 +41,6 @@ http://localhost:8080/_ah/api/explorer/
 
 ## Structure
 - ```direnv``` will export the new ```GOROOT``` and ```GOPATH``` according to ```.envrc```.
-- ```lib``` has the codes which are commonly used in modules (e.g., ```import lib/xxx```)
 - ```modules``` includes the modules of GAE
 - ```gopath``` imports external libraries (```gopath``` is separated from our own codes. See [5] for this reason)
 
