@@ -44,6 +44,9 @@ http://localhost:8080/_ah/api/explorer/
 - ```modules``` includes the modules of GAE
 - ```gopath``` imports external libraries (```gopath``` is separated from our own codes. See [5] for this reason)
 
+## Tips
+- [Using memcache in Go](https://cloud.google.com/appengine/docs/go/memcache/using#configuring_memcache)
+
 ## References
 
 - [1] [GAE/Go Tutorial](https://cloud.google.com/appengine/training/go-plus-appengine/hello-appengine)
