@@ -46,6 +46,7 @@ http://localhost:8080/_ah/api/explorer/
 
 ## Tips
 - [Using memcache in Go](https://cloud.google.com/appengine/docs/go/memcache/using#configuring_memcache)
+- [Edge Cache (in japanese)](http://qiita.com/sinmetal/items/37c105a098174fb6bf77)
 
 ## References
 
