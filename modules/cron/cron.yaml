@@ -1,0 +1,6 @@
+cron:
+- description: cron tast on dev server
+  url: /cron
+  schedule: every 1 hours
+  timezone: Asia/Tokyo
+  target: 1
